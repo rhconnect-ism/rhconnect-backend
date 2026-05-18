@@ -1,0 +1,15 @@
+target/
+*.class
+*.jar
+*.war
+.idea/
+*.iml
+.vscode/
+src/main/resources/application-dev.yml
+src/main/resources/application-prod.yml
+.env
+.env.*
+logs/
+*.log
+.DS_Store
+Thumbs.db
