@@ -1,8 +1,8 @@
 server.port=8080
 
 spring.datasource.url=jdbc:mysql://localhost:3306/rhconnect?useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true
-spring.datasource.username=<ton_username_mysql>
-spring.datasource.password=<ton_mot_de_passe_mysql>
+spring.datasource.username=<root>
+spring.datasource.password=<Mysql123>
 spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
 
 spring.jpa.hibernate.ddl-auto=update
